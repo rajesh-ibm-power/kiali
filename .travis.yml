@@ -4,7 +4,6 @@ arch:
   - amd64
   - arm64
   - ppc64le
-
 jobs:
   # Sometimes it takes a very long time to spin up an ARM machine on travis.
   # Because of this, we will not require arm64 builds in order for a PR to go green.
